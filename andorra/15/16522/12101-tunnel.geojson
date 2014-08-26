@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"LineString","coordinates":[[1.5219309926033107,42.508030416336084],[1.5218022465705958,42.50810357557646]]},"properties":{"class":"path","oneway":0,"osm_id":226847052,"type":"steps"}}],"name":"tunnel"}
